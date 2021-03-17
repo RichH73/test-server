@@ -1,20 +1,11 @@
 const express = require("express");
 const app = express();
-const date = new Date()
 const bodyParser = require("body-parser");
 const { flatten, set, forEach, get, toLower, snakeCase, split } = require('lodash')
 const fs = require('fs')
-var Busboy = require('busboy')
 
 
-const fileUpload = require('express-fileupload')
-app.use(fileUpload({
-    useTempFiles: true,
-    tempFileDir: '/tmp/',
-    createParentPath: true,
-    preserveExtension: true,
-    safeFileNames: true
-}))
+
 
 
 app.post('/test', function(req, res) {
