@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3fbc6c94-3555-49e0-8fa1-f14693d41aef" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/albtest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/appconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/appconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customer-search-form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/file" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/locales/fr-FR/languagePack.js" beforeDir="false" afterPath="$PROJECT_DIR$/locales/fr-FR/languagePack.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tp.jpg" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZM6EmBXQxlnLxgomaPzwZl9qb0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3fbc6c94-3555-49e0-8fa1-f14693d41aef" name="Default Changelist" comment="" />
+      <created>1584636506738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584636506738</updated>
+      <workItem from="1584636509891" duration="42000" />
+      <workItem from="1584636734199" duration="76000" />
+      <workItem from="1592395255354" duration="120000" />
+      <workItem from="1592395384899" duration="2447000" />
+      <workItem from="1597937145714" duration="42000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1911" y="164" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1592396141120">
+      <screen x="1280" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1911" y="164" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1280.777/3200.-21.1920.1057/1280.23.1920.1057@1280.23.1920.1057" timestamp="1592396141120" />
+    <state x="1775" y="88" key="CommitChangelistDialog2" timestamp="1592397348450">
+      <screen x="1280" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1775" y="88" key="CommitChangelistDialog2/0.23.1280.777/3200.-21.1920.1057/1280.23.1920.1057@1280.23.1920.1057" timestamp="1592397348450" />
+    <state x="3709" y="88" key="SettingsEditor" timestamp="1592398493642">
+      <screen x="3200" y="-21" width="1920" height="1057" />
+    </state>
+    <state x="3709" y="88" key="SettingsEditor/0.23.1280.777/3200.-21.1920.1057/1280.23.1920.1057@1280.23.1920.1057" timestamp="1592398493642" />
+    <state width="625" height="500" key="SwitcherDM" timestamp="1592397435581">
+      <screen x="1280" y="23" width="1920" height="1057" />
+    </state>
+    <state width="625" height="500" key="SwitcherDM/0.23.1280.777/3200.-21.1920.1057/1280.23.1920.1057@1280.23.1920.1057" timestamp="1592397435581" />
+    <state x="1821" y="48" width="838" height="1032" key="search.everywhere.popup" timestamp="1592398579883">
+      <screen x="1280" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1821" y="48" width="838" height="1032" key="search.everywhere.popup/0.23.1280.777/3200.-21.1920.1057/1280.23.1920.1057@1280.23.1920.1057" timestamp="1592398579883" />
+  </component>
+</project>
