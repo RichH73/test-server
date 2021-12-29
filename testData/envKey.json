@@ -1,0 +1,27 @@
+{
+	"envKey": {
+		"deviceDateTime": "2021-10-15T09:46:59-04:00",
+		"envKey": "1",
+		"storeInfo": { "number": "5039", "locale": "en-US" },
+		"userInfo": {
+			"conversationsGroups": ["Inbox", "Sent", "Store", "Drafts"],
+			"userId": "mmobile",
+			"firstName": "Shree",
+			"lastName": "Sakthi",
+			"userName": "ShreeSakthi",
+			"email": "null-101",
+			"loginName": "101",
+			"initials": "",
+			"roleCode": "",
+			"crmUserData": null,
+			"permissions": ["all"],
+			"dashboardDefaults": {},
+			"securityUserId": "mmobile",
+			"roles": ["manager"],
+			"tenant": "guess",
+			"sandbox": "rh-guess-544",
+			"sessionKey": "4470ecbc-67b8-4fe9-841c-98fdb284296a",
+			"selectedLanguage": "en-US"
+		}
+	}
+}

@@ -1,19 +1,48 @@
 {
-  "name": "test-server",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "start": "nodemon app",
-    "deploy": "git add . && git commit -m 'save' && git push"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "body-parser": "^1.19.0",
-    "crypto-js": "^4.0.0",
-    "express": "^4.17.1",
-    "lodash": "^4.17.15"
-  }
+	"name": "test-server",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"prettier": {
+		"singleQuote": true,
+		"printWidth": 150,
+		"arrowParens": "always",
+		"bracketSpacing": true,
+		"useTabs": true,
+		"semi": true,
+		"jsxBracketSameLine": true
+	},
+	"scripts": {
+		"start": "nodemon app",
+		"deploy": "git add . && git commit -m 'save' && git push",
+		"dev:build-server": "NODE_ENV=development webpack --config webpack.server.js --mode=development -w",
+		"dev:start": "nodemon ./server-build/index.js",
+		"dev": "npm-run-all --parallel build dev:*",
+		"prettier": "prettier --use-tabs --print-width 150 --arrow-parens always --single-quote --bracket-spacing --write \"*.{js,json,scss}\""
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"axios": "^0.21.1",
+		"body-parser": "^1.19.0",
+		"cors": "^2.8.5",
+		"crypto-js": "^4.0.0",
+		"express": "^4.17.1",
+		"lodash": "^4.17.15",
+		"node-file-api": "^1.1.0",
+		"node-wsdl": "^1.0.1",
+		"prettier": "^2.3.2",
+		"soap": "^0.37.0"
+	},
+	"devDependencies": {
+		"@babel/core": "^7.10.4",
+		"@babel/preset-env": "^7.10.4",
+		"@babel/preset-react": "^7.10.4",
+		"babel-loader": "^8.1.0",
+		"npm-run-all": "^4.1.5",
+		"webpack": "^4.42.0",
+		"webpack-cli": "^3.3.12",
+		"webpack-node-externals": "^1.7.2"
+	}
 }

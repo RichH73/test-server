@@ -1,0 +1,16 @@
+{
+	"name": "products",
+	"type": "script",
+	"templates": {
+		"envKey": {
+			"required": false,
+			"type": "object"
+		},
+		"queryObject": {
+			"required": false,
+			"type": "object"
+		}
+	},
+	"version": 2,
+	"configuration": {}
+}

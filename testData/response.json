@@ -1,0 +1,635 @@
+{
+	"headers": {
+	  "accept-ranges": "bytes",
+	  "x-dw-request-base-id": "zfIuVaqLaWFkAAAK",
+	  "allow": "GET,HEAD,OPTIONS",
+	  "x-dw-version-status": "deprecated",
+	  "x-content-type-options": "nosniff",
+	  "cache-control": "max-age=0,no-cache,no-store,must-revalidate",
+	  "vary": "accept-encoding",
+	  "content-type": "application/json;charset=UTF-8",
+	  "content-length": "16460",
+	  "date": "Fri, 15 Oct 2021 14:09:45 GMT",
+	  "connection": "close",
+	  "server": "Apache"
+	},
+	"body": {
+	  "_v": "20.10",
+	  "_type": "product",
+	  "brand": "GUESS",
+	  "currency": "USD",
+	  "ean": "7620207843144",
+	  "id": "14198606",
+	  "image_groups": [
+		{
+		  "_type": "image_group",
+		  "images": [
+			{
+			  "_type": "image",
+			  "alt": "Logo Mock-Neck Top",
+			  "link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_800,c_scale/v1/NA/Style/ECOMM/W1BP18KA2O1-G1DA",
+			  "title": "Logo Mock-Neck Top"
+			},
+			{
+			  "_type": "image",
+			  "alt": "Logo Mock-Neck Top",
+			  "link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_800,c_scale/v1/NA/Style/ECOMM/W1BP18KA2O1-G1DA-ALT1",
+			  "title": "Logo Mock-Neck Top"
+			},
+			{
+			  "_type": "image",
+			  "alt": "Logo Mock-Neck Top",
+			  "link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_800,c_scale/v1/NA/Style/ECOMM/W1BP18KA2O1-G1DA-ALT2",
+			  "title": "Logo Mock-Neck Top"
+			},
+			{
+			  "_type": "image",
+			  "alt": "Logo Mock-Neck Top",
+			  "link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_800,c_scale/v1/NA/Style/ECOMM/W1BP18KA2O1-G1DA-ALT3",
+			  "title": "Logo Mock-Neck Top"
+			}
+		  ],
+		  "variation_attributes": [
+			{
+			  "_type": "variation_attribute",
+			  "id": "color",
+			  "values": [
+				{ "_type": "variation_attribute_value", "value": "G1DA" }
+			  ]
+			}
+		  ],
+		  "view_type": "large",
+		  "match_count": 0,
+		  "color_match": false
+		},
+		{
+		  "_type": "image_group",
+		  "images": [
+			{
+			  "_type": "image",
+			  "alt": "Logo Mock-Neck Top",
+			  "link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_800,c_scale/v1/NA/Style/ECOMM/W1BP18KA2O1-JTMU",
+			  "title": "Logo Mock-Neck Top"
+			},
+			{
+			  "_type": "image",
+			  "alt": "Logo Mock-Neck Top",
+			  "link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_800,c_scale/v1/NA/Style/ECOMM/W1BP18KA2O1-JTMU-ALT1",
+			  "title": "Logo Mock-Neck Top"
+			},
+			{
+			  "_type": "image",
+			  "alt": "Logo Mock-Neck Top",
+			  "link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_800,c_scale/v1/NA/Style/ECOMM/W1BP18KA2O1-JTMU-ALT2",
+			  "title": "Logo Mock-Neck Top"
+			},
+			{
+			  "_type": "image",
+			  "alt": "Logo Mock-Neck Top",
+			  "link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_800,c_scale/v1/NA/Style/ECOMM/W1BP18KA2O1-JTMU-ALT3",
+			  "title": "Logo Mock-Neck Top"
+			}
+		  ],
+		  "variation_attributes": [
+			{
+			  "_type": "variation_attribute",
+			  "id": "color",
+			  "values": [
+				{ "_type": "variation_attribute_value", "value": "JTMU" }
+			  ]
+			}
+		  ],
+		  "view_type": "large",
+		  "match_count": 1,
+		  "color_match": true
+		},
+		{
+		  "_type": "image_group",
+		  "images": [
+			{
+			  "_type": "image",
+			  "alt": "Logo Mock-Neck Top",
+			  "link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_392,c_scale/v1/NA/Style/ECOMM/W1BP18KA2O1-G1DA",
+			  "title": "Logo Mock-Neck Top"
+			},
+			{
+			  "_type": "image",
+			  "alt": "Logo Mock-Neck Top",
+			  "link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_392,c_scale/v1/NA/Style/ECOMM/W1BP18KA2O1-G1DA-ALT1",
+			  "title": "Logo Mock-Neck Top"
+			},
+			{
+			  "_type": "image",
+			  "alt": "Logo Mock-Neck Top",
+			  "link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_392,c_scale/v1/NA/Style/ECOMM/W1BP18KA2O1-G1DA-ALT2",
+			  "title": "Logo Mock-Neck Top"
+			},
+			{
+			  "_type": "image",
+			  "alt": "Logo Mock-Neck Top",
+			  "link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_392,c_scale/v1/NA/Style/ECOMM/W1BP18KA2O1-G1DA-ALT3",
+			  "title": "Logo Mock-Neck Top"
+			}
+		  ],
+		  "variation_attributes": [
+			{
+			  "_type": "variation_attribute",
+			  "id": "color",
+			  "values": [
+				{ "_type": "variation_attribute_value", "value": "G1DA" }
+			  ]
+			}
+		  ],
+		  "view_type": "medium"
+		},
+		{
+		  "_type": "image_group",
+		  "images": [
+			{
+			  "_type": "image",
+			  "alt": "Logo Mock-Neck Top",
+			  "link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_392,c_scale/v1/NA/Style/ECOMM/W1BP18KA2O1-JTMU",
+			  "title": "Logo Mock-Neck Top"
+			},
+			{
+			  "_type": "image",
+			  "alt": "Logo Mock-Neck Top",
+			  "link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_392,c_scale/v1/NA/Style/ECOMM/W1BP18KA2O1-JTMU-ALT1",
+			  "title": "Logo Mock-Neck Top"
+			},
+			{
+			  "_type": "image",
+			  "alt": "Logo Mock-Neck Top",
+			  "link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_392,c_scale/v1/NA/Style/ECOMM/W1BP18KA2O1-JTMU-ALT2",
+			  "title": "Logo Mock-Neck Top"
+			},
+			{
+			  "_type": "image",
+			  "alt": "Logo Mock-Neck Top",
+			  "link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_392,c_scale/v1/NA/Style/ECOMM/W1BP18KA2O1-JTMU-ALT3",
+			  "title": "Logo Mock-Neck Top"
+			}
+		  ],
+		  "variation_attributes": [
+			{
+			  "_type": "variation_attribute",
+			  "id": "color",
+			  "values": [
+				{ "_type": "variation_attribute_value", "value": "JTMU" }
+			  ]
+			}
+		  ],
+		  "view_type": "medium"
+		},
+		{
+		  "_type": "image_group",
+		  "images": [
+			{
+			  "_type": "image",
+			  "alt": "Logo Mock-Neck Top",
+			  "link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_300,c_scale/v1/NA/Style/ECOMM/W1BP18KA2O1-G1DA",
+			  "title": "Logo Mock-Neck Top"
+			},
+			{
+			  "_type": "image",
+			  "alt": "Logo Mock-Neck Top",
+			  "link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_300,c_scale/v1/NA/Style/ECOMM/W1BP18KA2O1-G1DA-ALT1",
+			  "title": "Logo Mock-Neck Top"
+			},
+			{
+			  "_type": "image",
+			  "alt": "Logo Mock-Neck Top",
+			  "link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_300,c_scale/v1/NA/Style/ECOMM/W1BP18KA2O1-G1DA-ALT2",
+			  "title": "Logo Mock-Neck Top"
+			},
+			{
+			  "_type": "image",
+			  "alt": "Logo Mock-Neck Top",
+			  "link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_300,c_scale/v1/NA/Style/ECOMM/W1BP18KA2O1-G1DA-ALT3",
+			  "title": "Logo Mock-Neck Top"
+			}
+		  ],
+		  "variation_attributes": [
+			{
+			  "_type": "variation_attribute",
+			  "id": "color",
+			  "values": [
+				{ "_type": "variation_attribute_value", "value": "G1DA" }
+			  ]
+			}
+		  ],
+		  "view_type": "small"
+		},
+		{
+		  "_type": "image_group",
+		  "images": [
+			{
+			  "_type": "image",
+			  "alt": "Logo Mock-Neck Top",
+			  "link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_300,c_scale/v1/NA/Style/ECOMM/W1BP18KA2O1-JTMU",
+			  "title": "Logo Mock-Neck Top"
+			},
+			{
+			  "_type": "image",
+			  "alt": "Logo Mock-Neck Top",
+			  "link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_300,c_scale/v1/NA/Style/ECOMM/W1BP18KA2O1-JTMU-ALT1",
+			  "title": "Logo Mock-Neck Top"
+			},
+			{
+			  "_type": "image",
+			  "alt": "Logo Mock-Neck Top",
+			  "link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_300,c_scale/v1/NA/Style/ECOMM/W1BP18KA2O1-JTMU-ALT2",
+			  "title": "Logo Mock-Neck Top"
+			},
+			{
+			  "_type": "image",
+			  "alt": "Logo Mock-Neck Top",
+			  "link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_300,c_scale/v1/NA/Style/ECOMM/W1BP18KA2O1-JTMU-ALT3",
+			  "title": "Logo Mock-Neck Top"
+			}
+		  ],
+		  "variation_attributes": [
+			{
+			  "_type": "variation_attribute",
+			  "id": "color",
+			  "values": [
+				{ "_type": "variation_attribute_value", "value": "JTMU" }
+			  ]
+			}
+		  ],
+		  "view_type": "small"
+		},
+		{
+		  "_type": "image_group",
+		  "images": [
+			{
+			  "_type": "image",
+			  "alt": "Logo Mock-Neck Top",
+			  "link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_30,c_scale/v1/NA/Style/SW/W1BP18KA2O1-G1DA",
+			  "title": "Logo Mock-Neck Top"
+			}
+		  ],
+		  "variation_attributes": [
+			{
+			  "_type": "variation_attribute",
+			  "id": "color",
+			  "values": [
+				{ "_type": "variation_attribute_value", "value": "G1DA" }
+			  ]
+			}
+		  ],
+		  "view_type": "swatch"
+		},
+		{
+		  "_type": "image_group",
+		  "images": [
+			{
+			  "_type": "image",
+			  "alt": "Logo Mock-Neck Top",
+			  "link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_30,c_scale/v1/NA/Style/SW/W1BP18KA2O1-JTMU",
+			  "title": "Logo Mock-Neck Top"
+			}
+		  ],
+		  "variation_attributes": [
+			{
+			  "_type": "variation_attribute",
+			  "id": "color",
+			  "values": [
+				{ "_type": "variation_attribute_value", "value": "JTMU" }
+			  ]
+			}
+		  ],
+		  "view_type": "swatch"
+		},
+		{
+		  "_type": "image_group",
+		  "images": [
+			{
+			  "_type": "image",
+			  "alt": "Logo Mock-Neck Top",
+			  "link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_1024,c_scale/v1/NA/Style/ECOMM/W1BP18KA2O1-G1DA",
+			  "title": "Logo Mock-Neck Top"
+			},
+			{
+			  "_type": "image",
+			  "alt": "Logo Mock-Neck Top",
+			  "link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_1024,c_scale/v1/NA/Style/ECOMM/W1BP18KA2O1-G1DA-ALT1",
+			  "title": "Logo Mock-Neck Top"
+			},
+			{
+			  "_type": "image",
+			  "alt": "Logo Mock-Neck Top",
+			  "link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_1024,c_scale/v1/NA/Style/ECOMM/W1BP18KA2O1-G1DA-ALT2",
+			  "title": "Logo Mock-Neck Top"
+			},
+			{
+			  "_type": "image",
+			  "alt": "Logo Mock-Neck Top",
+			  "link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_1024,c_scale/v1/NA/Style/ECOMM/W1BP18KA2O1-G1DA-ALT3",
+			  "title": "Logo Mock-Neck Top"
+			}
+		  ],
+		  "variation_attributes": [
+			{
+			  "_type": "variation_attribute",
+			  "id": "color",
+			  "values": [
+				{ "_type": "variation_attribute_value", "value": "G1DA" }
+			  ]
+			}
+		  ],
+		  "view_type": "x-large"
+		},
+		{
+		  "_type": "image_group",
+		  "images": [
+			{
+			  "_type": "image",
+			  "alt": "Logo Mock-Neck Top",
+			  "link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_1024,c_scale/v1/NA/Style/ECOMM/W1BP18KA2O1-JTMU",
+			  "title": "Logo Mock-Neck Top"
+			},
+			{
+			  "_type": "image",
+			  "alt": "Logo Mock-Neck Top",
+			  "link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_1024,c_scale/v1/NA/Style/ECOMM/W1BP18KA2O1-JTMU-ALT1",
+			  "title": "Logo Mock-Neck Top"
+			},
+			{
+			  "_type": "image",
+			  "alt": "Logo Mock-Neck Top",
+			  "link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_1024,c_scale/v1/NA/Style/ECOMM/W1BP18KA2O1-JTMU-ALT2",
+			  "title": "Logo Mock-Neck Top"
+			},
+			{
+			  "_type": "image",
+			  "alt": "Logo Mock-Neck Top",
+			  "link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_1024,c_scale/v1/NA/Style/ECOMM/W1BP18KA2O1-JTMU-ALT3",
+			  "title": "Logo Mock-Neck Top"
+			}
+		  ],
+		  "variation_attributes": [
+			{
+			  "_type": "variation_attribute",
+			  "id": "color",
+			  "values": [
+				{ "_type": "variation_attribute_value", "value": "JTMU" }
+			  ]
+			}
+		  ],
+		  "view_type": "x-large"
+		}
+	  ],
+	  "inventory": {
+		"_type": "inventory",
+		"ats": 39,
+		"backorderable": false,
+		"id": "guess_us",
+		"orderable": true,
+		"preorderable": false,
+		"stock_level": 39
+	  },
+	  "long_description": "| 63% Rayon, 37% Polyester | Hand wash",
+	  "master": {
+		"_type": "master",
+		"link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/W1BP18KA2O1?all_images=true&locale=en-US&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a",
+		"master_id": "W1BP18KA2O1",
+		"orderable": true,
+		"price": 41.3
+	  },
+	  "min_order_quantity": 1,
+	  "name": "Logo Mock-Neck Top",
+	  "price": 41.3,
+	  "price_per_unit": 41.3,
+	  "prices": {
+		"retailPricebook_8001_us": 59,
+		"salesPricebook_8001_us": 41.3
+	  },
+	  "short_description": "Upgrade an essential piece with this top featuring an allover logo print and mock-neckline.",
+	  "step_quantity": 1,
+	  "type": { "_type": "product_type", "variant": true },
+	  "unit_measure": "",
+	  "unit_quantity": 0,
+	  "variants": [
+		{
+		  "_type": "variant",
+		  "link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/14198612?all_images=true&locale=en-US&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a",
+		  "orderable": true,
+		  "price": 41.3,
+		  "product_id": "14198612",
+		  "variation_values": { "color": "G1DA", "size": "XS" }
+		},
+		{
+		  "_type": "variant",
+		  "link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/14198613?all_images=true&locale=en-US&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a",
+		  "orderable": true,
+		  "price": 41.3,
+		  "product_id": "14198613",
+		  "variation_values": { "color": "G1DA", "size": "S" }
+		},
+		{
+		  "_type": "variant",
+		  "link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/14198614?all_images=true&locale=en-US&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a",
+		  "orderable": true,
+		  "price": 41.3,
+		  "product_id": "14198614",
+		  "variation_values": { "color": "G1DA", "size": "M" }
+		},
+		{
+		  "_type": "variant",
+		  "link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/14198615?all_images=true&locale=en-US&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a",
+		  "orderable": true,
+		  "price": 41.3,
+		  "product_id": "14198615",
+		  "variation_values": { "color": "G1DA", "size": "L" }
+		},
+		{
+		  "_type": "variant",
+		  "link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/14198606?all_images=true&locale=en-US&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a",
+		  "orderable": true,
+		  "price": 41.3,
+		  "product_id": "14198606",
+		  "variation_values": { "color": "JTMU", "size": "XS" }
+		},
+		{
+		  "_type": "variant",
+		  "link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/14198608?all_images=true&locale=en-US&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a",
+		  "orderable": true,
+		  "price": 41.3,
+		  "product_id": "14198608",
+		  "variation_values": { "color": "JTMU", "size": "M" }
+		},
+		{
+		  "_type": "variant",
+		  "link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/14198607?all_images=true&locale=en-US&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a",
+		  "orderable": true,
+		  "price": 41.3,
+		  "product_id": "14198607",
+		  "variation_values": { "color": "JTMU", "size": "S" }
+		},
+		{
+		  "_type": "variant",
+		  "link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/14198609?all_images=true&locale=en-US&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a",
+		  "orderable": true,
+		  "price": 41.3,
+		  "product_id": "14198609",
+		  "variation_values": { "color": "JTMU", "size": "L" }
+		}
+	  ],
+	  "variation_attributes": [
+		{
+		  "_type": "variation_attribute",
+		  "id": "color",
+		  "name": "Color",
+		  "values": [
+			{
+			  "_type": "variation_attribute_value",
+			  "name": "light rum",
+			  "orderable": true,
+			  "value": "G1DA"
+			},
+			{
+			  "_type": "variation_attribute_value",
+			  "name": "jet black multi",
+			  "orderable": true,
+			  "value": "JTMU"
+			}
+		  ]
+		},
+		{
+		  "_type": "variation_attribute",
+		  "id": "size",
+		  "name": "Size",
+		  "values": [
+			{
+			  "_type": "variation_attribute_value",
+			  "name": "L",
+			  "orderable": true,
+			  "value": "L"
+			},
+			{
+			  "_type": "variation_attribute_value",
+			  "name": "M",
+			  "orderable": true,
+			  "value": "M"
+			},
+			{
+			  "_type": "variation_attribute_value",
+			  "name": "S",
+			  "orderable": true,
+			  "value": "S"
+			},
+			{
+			  "_type": "variation_attribute_value",
+			  "name": "XS",
+			  "orderable": true,
+			  "value": "XS"
+			}
+		  ]
+		}
+	  ],
+	  "variation_groups": [
+		{
+		  "_type": "variation_group",
+		  "link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/W1BP18KA2O1-G1DA?all_images=true&locale=en-US&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a",
+		  "orderable": true,
+		  "product_id": "W1BP18KA2O1-G1DA",
+		  "variation_values": { "color": "G1DA" }
+		},
+		{
+		  "_type": "variation_group",
+		  "link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/W1BP18KA2O1-JTMU?all_images=true&locale=en-US&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a",
+		  "orderable": true,
+		  "product_id": "W1BP18KA2O1-JTMU",
+		  "variation_values": { "color": "JTMU" }
+		}
+	  ],
+	  "variation_values": { "color": "JTMU", "size": "XS" },
+	  "c_availableForInStorePickup": true,
+	  "c_features": true,
+	  "c_guess_TaxProviderTaxCategoryCode": "Clothing",
+	  "c_guess_arrivalDate": "2021-08-03T07:00:00.000Z",
+	  "c_guess_color": "JTMU",
+	  "c_guess_colorGroup": "Black",
+	  "c_guess_size": "XS",
+	  "c_guess_visibleInCountries": ["ALL"],
+	  "c_isApproved": true,
+	  "c_isGiftCard": false,
+	  "c_isHazardous": false,
+	  "c_isReturnable": true,
+	  "c_isSellable": true,
+	  "c_isSoldOut": false,
+	  "c_isVisible": true,
+	  "c_newArrival": false,
+	  "c_productType": "MRCH",
+	  "c_revenue": "0.00",
+	  "c_variants": [
+		{
+		  "_type": "variant",
+		  "link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/14198612?all_images=true&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a&locale=en-US",
+		  "orderable": true,
+		  "price": 41.3,
+		  "product_id": "14198612",
+		  "variation_values": { "color": "G1DA", "size": "XS" }
+		},
+		{
+		  "_type": "variant",
+		  "link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/14198613?all_images=true&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a&locale=en-US",
+		  "orderable": true,
+		  "price": 41.3,
+		  "product_id": "14198613",
+		  "variation_values": { "color": "G1DA", "size": "S" }
+		},
+		{
+		  "_type": "variant",
+		  "link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/14198614?all_images=true&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a&locale=en-US",
+		  "orderable": true,
+		  "price": 41.3,
+		  "product_id": "14198614",
+		  "variation_values": { "color": "G1DA", "size": "M" }
+		},
+		{
+		  "_type": "variant",
+		  "link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/14198615?all_images=true&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a&locale=en-US",
+		  "orderable": true,
+		  "price": 41.3,
+		  "product_id": "14198615",
+		  "variation_values": { "color": "G1DA", "size": "L" }
+		},
+		{
+		  "_type": "variant",
+		  "link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/14198606?all_images=true&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a&locale=en-US",
+		  "orderable": true,
+		  "price": 41.3,
+		  "product_id": "14198606",
+		  "variation_values": { "color": "JTMU", "size": "XS" }
+		},
+		{
+		  "_type": "variant",
+		  "link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/14198607?all_images=true&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a&locale=en-US",
+		  "orderable": true,
+		  "price": 41.3,
+		  "product_id": "14198607",
+		  "variation_values": { "color": "JTMU", "size": "S" }
+		},
+		{
+		  "_type": "variant",
+		  "link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/14198608?all_images=true&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a&locale=en-US",
+		  "orderable": true,
+		  "price": 41.3,
+		  "product_id": "14198608",
+		  "variation_values": { "color": "JTMU", "size": "M" }
+		},
+		{
+		  "_type": "variant",
+		  "link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/14198609?all_images=true&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a&locale=en-US",
+		  "orderable": true,
+		  "price": 41.3,
+		  "product_id": "14198609",
+		  "variation_values": { "color": "JTMU", "size": "L" }
+		}
+	  ]
+	},
+	"status": 200,
+	"cs_metadata": { "elapsedTime": 168, "status": 200 }
+  }

@@ -1,0 +1,49 @@
+{
+  "detailRequest": {
+    "brand": "",
+    "fulfillmentType": "Ship",
+    "productId": "M1GH31RB5M1-F7IF",
+    "region": "",
+    "searchOptions": {}
+  },
+  "envKey": {
+    "deviceDateTime": "2021-09-22T10:59:16-04:00",
+    "envKey": "1",
+    "storeInfo": {
+      "number": "5039",
+      "locale": "en-US"
+    },
+    "userInfo": {
+      "conversationsGroups": [
+        "Inbox",
+        "Sent",
+        "Store",
+        "Drafts"
+      ],
+      "userId": "mmobile",
+      "firstName": "Shree",
+      "lastName": "Sakthi",
+      "userName": "ShreeSakthi",
+      "email": "null-101",
+      "loginName": "101",
+      "initials": "SS",
+      "roleCode": "",
+      "crmUserData": null,
+      "permissions": [
+        "all"
+      ],
+      "dashboardDefaults": {},
+      "idpToken": {
+        "id_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJmaXJzdE5hbWUiOiJTaHJlZSIsImxhc3ROYW1lIjoiU2FrdGhpIiwiZW1wbG95ZWVQcml2aWxlZ2VzIjpbXSwicm9sZUNvZGUiOiJERUZBVUxUIiwiaXNzIjoiTWFkTW9iaWxlLU1hZFNlcnZpY2VzIiwiZW1wbG95ZWVJZCI6IjEwMSIsImV4cCI6MTYzMjQwODMwNCwidXNlck5hbWUiOiJTaHJlZVNha3RoaSIsImVtYWlsIjoibnVsbC0xMDEifQ.nReU-LYRqaDF0G4XNupi0NGfwcKeWk44V0-6-v-VpBJfBdFnIkOUOEJslYXZ_RcS2RoMfMRFY2QHdifBNlYsCiRunqMSx0Fb-6cmjy8e_MNKfK73T0DMdCQ_Z5sSrm1f8gj0NOh3DHAfwW2Q25v5IE-CUHPWYRg6cOkEfqXZ9OiaXr44C1i_q8Q9K7id1TITMtnR5zf9pAg-VDpFGHuQs13HjgNgENKsxKnfs4rMYL_F4JNPqS1VwFU4-lPJ86GaY6kY6wXx4v_S6JOz0JqMue3dQkOR2IdUiRH9vqXs7WHJNuuc4Q4aooJvyWQDFPiCb0b7mmlUHhjs9OCK6aFvb430iChce2I02Dng5kRfnqTtlKYd6vb6uKGM-B_v8sMfSsQe3JkHdGXooDrhbH7NwLUhgeCCE2NuPi8VC0P0xopLncRbHXcA7D9a1OXzIAsRsE6_XN-WEnOloNdAO3_8MFv0bfsQFRDY0GTSHVvpYfrwRTu4xwAHCMJPVoXWYf57jGO0mjzx16DxgY-llxcjwywxZKtOfhPkBJooM9lLisZjySYKR0oQu1MzgmzX2vEWPmAaIzvEMPVNBvWK7A65wPyaJM-iFpxMfUMp5ALc70PpecqUcKqCXcCK7WSLKruRaNgAtdDbUrNG2NxbkupdWgmqKCESi02jb3t6CMaaU_k"
+      },
+      "securityUserId": "mmobile",
+      "roles": [
+        "manager"
+      ],
+      "tenant": "guess",
+      "sandbox": "guess-383-product-detail-page-business-m-jharre-develop-2",
+      "sessionKey": "59e5d6bb-3091-4f85-9822-34866aa0c124",
+      "selectedLanguage": "en-US"
+    }
+  }
+}

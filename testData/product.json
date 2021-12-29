@@ -1,0 +1,1165 @@
+{
+	"displayConfig": {
+		"0": {
+			"variant": "color",
+			"cmp": "color",
+			"type": "color",
+			"label": "Color"
+		},
+		"1": {
+			"variant": "size",
+			"cmp": "variantPicker",
+			"type": "size",
+			"label": "Size"
+		}
+	},
+	"id": "W1BK66K7UW1",
+	"styleNumber": "W1BK66K7UW1",
+	"sku": "W1BK66K7UW1",
+	"name": "GUESS Eco Laurette Dress",
+	"shortDescription": "<b>Sku: W1BK66K7UW1</b><br><br><b> Description: </b>Part of the SMART GUESS Collection. Designed in a coveted stretch-knit scuba fabrication, this sleek dress features a scoop neckline and short cap sleeves. Made using fiber from responsibly managed forests.",
+	"longDescription": "<b>Sku: W1BK66K7UW1</b><br><br><b> Description: </b>Part of the SMART GUESS Collection. Designed in a coveted stretch-knit scuba fabrication, this sleek dress features a scoop neckline and short cap sleeves. Made using fiber from responsibly managed forests.",
+	"bulletNotes": [],
+	"isAvailable": true,
+	"images": [
+		"https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_800,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-G5B7",
+		"https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_800,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-G5B7-ALT2",
+		"https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_800,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-G5B7-ALT3"
+	],
+	"imageThumbs": [],
+	"pricing": {
+		"sale": {
+			"low": {
+				"label": "",
+				"value": null
+			},
+			"high": {
+				"label": "",
+				"value": null
+			},
+			"value": 98
+		}
+	},
+	"variantAttributes": [
+		{
+			"id": "color",
+			"label": "Color",
+			"values": [
+				{
+					"id": "G5B7",
+					"label": "beet juice red",
+					"swatchUrl": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_30,c_scale/v1/NA/Style/SW/W1BK66K7UW1-G5B7",
+					"hexColor": null,
+					"available": true,
+					"selected": true
+				},
+				{
+					"id": "G7HN",
+					"label": "washed out navy",
+					"swatchUrl": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_30,c_scale/v1/NA/Style/SW/W1BK66K7UW1-G7HN",
+					"hexColor": null,
+					"available": true,
+					"selected": false
+				},
+				{
+					"id": "JBLK",
+					"label": "jet black",
+					"swatchUrl": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_30,c_scale/v1/NA/Style/SW/W1BK66K7UW1-JBLK",
+					"hexColor": null,
+					"available": true,
+					"selected": false
+				}
+			]
+		},
+		{
+			"id": "size",
+			"label": "Size",
+			"values": [
+				{
+					"id": "L",
+					"label": "L",
+					"swatchUrl": null,
+					"hexColor": null,
+					"available": true,
+					"selected": false
+				},
+				{
+					"id": "M",
+					"label": "M",
+					"swatchUrl": null,
+					"hexColor": null,
+					"available": true,
+					"selected": false
+				},
+				{
+					"id": "S",
+					"label": "S",
+					"swatchUrl": null,
+					"hexColor": null,
+					"available": true,
+					"selected": false
+				},
+				{
+					"id": "XS",
+					"label": "XS",
+					"swatchUrl": null,
+					"hexColor": null,
+					"available": true,
+					"selected": false
+				}
+			]
+		}
+	],
+	"variantAttributesSelected": {
+		"color": "G5B7"
+	},
+	"notPurchaseable": false,
+	"ratings": {
+		"averageRating": 0,
+		"count": 0
+	},
+	"variant": null,
+	"metaData": {
+		"response": {
+			"headers": {
+				"accept-ranges": "bytes",
+				"x-dw-request-base-id": "zfKymXaVaGFkAAAK",
+				"allow": "GET,HEAD,OPTIONS",
+				"x-dw-version-status": "deprecated",
+				"x-content-type-options": "nosniff",
+				"cache-control": "max-age=0,no-cache,no-store,must-revalidate",
+				"vary": "accept-encoding",
+				"content-type": "application/json;charset=UTF-8",
+				"content-length": "23620",
+				"date": "Thu, 14 Oct 2021 20:39:18 GMT",
+				"connection": "close",
+				"server": "Apache"
+			},
+			"body": {
+				"_v": "20.10",
+				"_type": "product",
+				"brand": "GUESS",
+				"currency": "USD",
+				"id": "W1BK66K7UW1",
+				"image_groups": [
+					{
+						"_type": "image_group",
+						"images": [
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_800,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-G5B7",
+								"title": "Eco Laurette Dress"
+							},
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_800,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-G5B7-ALT2",
+								"title": "Eco Laurette Dress"
+							},
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_800,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-G5B7-ALT3",
+								"title": "Eco Laurette Dress"
+							}
+						],
+						"variation_attributes": [
+							{
+								"_type": "variation_attribute",
+								"id": "color",
+								"values": [
+									{
+										"_type": "variation_attribute_value",
+										"value": "G5B7"
+									}
+								]
+							}
+						],
+						"view_type": "large",
+						"match_count": 1,
+						"color_match": true
+					},
+					{
+						"_type": "image_group",
+						"images": [
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_800,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-G7HN",
+								"title": "Eco Laurette Dress"
+							},
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_800,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-G7HN-ALT1",
+								"title": "Eco Laurette Dress"
+							},
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_800,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-G7HN-ALT2",
+								"title": "Eco Laurette Dress"
+							},
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_800,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-G7HN-ALT3",
+								"title": "Eco Laurette Dress"
+							},
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_800,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-G7HN-ALT4",
+								"title": "Eco Laurette Dress"
+							}
+						],
+						"variation_attributes": [
+							{
+								"_type": "variation_attribute",
+								"id": "color",
+								"values": [
+									{
+										"_type": "variation_attribute_value",
+										"value": "G7HN"
+									}
+								]
+							}
+						],
+						"view_type": "large",
+						"match_count": 0,
+						"color_match": false
+					},
+					{
+						"_type": "image_group",
+						"images": [
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_800,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-JBLK",
+								"title": "Eco Laurette Dress"
+							},
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_800,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-JBLK-ALT1",
+								"title": "Eco Laurette Dress"
+							},
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_800,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-JBLK-ALT2",
+								"title": "Eco Laurette Dress"
+							},
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_800,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-JBLK-ALT3",
+								"title": "Eco Laurette Dress"
+							}
+						],
+						"variation_attributes": [
+							{
+								"_type": "variation_attribute",
+								"id": "color",
+								"values": [
+									{
+										"_type": "variation_attribute_value",
+										"value": "JBLK"
+									}
+								]
+							}
+						],
+						"view_type": "large",
+						"match_count": 0,
+						"color_match": false
+					},
+					{
+						"_type": "image_group",
+						"images": [
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_392,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-G5B7",
+								"title": "Eco Laurette Dress"
+							},
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_392,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-G5B7-ALT2",
+								"title": "Eco Laurette Dress"
+							},
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_392,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-G5B7-ALT3",
+								"title": "Eco Laurette Dress"
+							}
+						],
+						"variation_attributes": [
+							{
+								"_type": "variation_attribute",
+								"id": "color",
+								"values": [
+									{
+										"_type": "variation_attribute_value",
+										"value": "G5B7"
+									}
+								]
+							}
+						],
+						"view_type": "medium"
+					},
+					{
+						"_type": "image_group",
+						"images": [
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_392,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-G7HN",
+								"title": "Eco Laurette Dress"
+							},
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_392,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-G7HN-ALT1",
+								"title": "Eco Laurette Dress"
+							},
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_392,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-G7HN-ALT2",
+								"title": "Eco Laurette Dress"
+							},
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_392,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-G7HN-ALT3",
+								"title": "Eco Laurette Dress"
+							},
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_392,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-G7HN-ALT4",
+								"title": "Eco Laurette Dress"
+							}
+						],
+						"variation_attributes": [
+							{
+								"_type": "variation_attribute",
+								"id": "color",
+								"values": [
+									{
+										"_type": "variation_attribute_value",
+										"value": "G7HN"
+									}
+								]
+							}
+						],
+						"view_type": "medium"
+					},
+					{
+						"_type": "image_group",
+						"images": [
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_392,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-JBLK",
+								"title": "Eco Laurette Dress"
+							},
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_392,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-JBLK-ALT1",
+								"title": "Eco Laurette Dress"
+							},
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_392,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-JBLK-ALT2",
+								"title": "Eco Laurette Dress"
+							},
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_392,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-JBLK-ALT3",
+								"title": "Eco Laurette Dress"
+							}
+						],
+						"variation_attributes": [
+							{
+								"_type": "variation_attribute",
+								"id": "color",
+								"values": [
+									{
+										"_type": "variation_attribute_value",
+										"value": "JBLK"
+									}
+								]
+							}
+						],
+						"view_type": "medium"
+					},
+					{
+						"_type": "image_group",
+						"images": [
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_300,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-G5B7",
+								"title": "Eco Laurette Dress"
+							},
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_300,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-G5B7-ALT2",
+								"title": "Eco Laurette Dress"
+							},
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_300,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-G5B7-ALT3",
+								"title": "Eco Laurette Dress"
+							}
+						],
+						"variation_attributes": [
+							{
+								"_type": "variation_attribute",
+								"id": "color",
+								"values": [
+									{
+										"_type": "variation_attribute_value",
+										"value": "G5B7"
+									}
+								]
+							}
+						],
+						"view_type": "small"
+					},
+					{
+						"_type": "image_group",
+						"images": [
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_300,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-G7HN",
+								"title": "Eco Laurette Dress"
+							},
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_300,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-G7HN-ALT1",
+								"title": "Eco Laurette Dress"
+							},
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_300,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-G7HN-ALT2",
+								"title": "Eco Laurette Dress"
+							},
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_300,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-G7HN-ALT3",
+								"title": "Eco Laurette Dress"
+							},
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_300,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-G7HN-ALT4",
+								"title": "Eco Laurette Dress"
+							}
+						],
+						"variation_attributes": [
+							{
+								"_type": "variation_attribute",
+								"id": "color",
+								"values": [
+									{
+										"_type": "variation_attribute_value",
+										"value": "G7HN"
+									}
+								]
+							}
+						],
+						"view_type": "small"
+					},
+					{
+						"_type": "image_group",
+						"images": [
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_300,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-JBLK",
+								"title": "Eco Laurette Dress"
+							},
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_300,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-JBLK-ALT1",
+								"title": "Eco Laurette Dress"
+							},
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_300,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-JBLK-ALT2",
+								"title": "Eco Laurette Dress"
+							},
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_300,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-JBLK-ALT3",
+								"title": "Eco Laurette Dress"
+							}
+						],
+						"variation_attributes": [
+							{
+								"_type": "variation_attribute",
+								"id": "color",
+								"values": [
+									{
+										"_type": "variation_attribute_value",
+										"value": "JBLK"
+									}
+								]
+							}
+						],
+						"view_type": "small"
+					},
+					{
+						"_type": "image_group",
+						"images": [
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_30,c_scale/v1/NA/Style/SW/W1BK66K7UW1-G5B7",
+								"title": "Eco Laurette Dress"
+							}
+						],
+						"variation_attributes": [
+							{
+								"_type": "variation_attribute",
+								"id": "color",
+								"values": [
+									{
+										"_type": "variation_attribute_value",
+										"value": "G5B7"
+									}
+								]
+							}
+						],
+						"view_type": "swatch"
+					},
+					{
+						"_type": "image_group",
+						"images": [
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_30,c_scale/v1/NA/Style/SW/W1BK66K7UW1-G7HN",
+								"title": "Eco Laurette Dress"
+							}
+						],
+						"variation_attributes": [
+							{
+								"_type": "variation_attribute",
+								"id": "color",
+								"values": [
+									{
+										"_type": "variation_attribute_value",
+										"value": "G7HN"
+									}
+								]
+							}
+						],
+						"view_type": "swatch"
+					},
+					{
+						"_type": "image_group",
+						"images": [
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_30,c_scale/v1/NA/Style/SW/W1BK66K7UW1-JBLK",
+								"title": "Eco Laurette Dress"
+							}
+						],
+						"variation_attributes": [
+							{
+								"_type": "variation_attribute",
+								"id": "color",
+								"values": [
+									{
+										"_type": "variation_attribute_value",
+										"value": "JBLK"
+									}
+								]
+							}
+						],
+						"view_type": "swatch"
+					},
+					{
+						"_type": "image_group",
+						"images": [
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_1024,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-G5B7",
+								"title": "Eco Laurette Dress"
+							},
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_1024,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-G5B7-ALT2",
+								"title": "Eco Laurette Dress"
+							},
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_1024,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-G5B7-ALT3",
+								"title": "Eco Laurette Dress"
+							}
+						],
+						"variation_attributes": [
+							{
+								"_type": "variation_attribute",
+								"id": "color",
+								"values": [
+									{
+										"_type": "variation_attribute_value",
+										"value": "G5B7"
+									}
+								]
+							}
+						],
+						"view_type": "x-large"
+					},
+					{
+						"_type": "image_group",
+						"images": [
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_1024,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-G7HN",
+								"title": "Eco Laurette Dress"
+							},
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_1024,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-G7HN-ALT1",
+								"title": "Eco Laurette Dress"
+							},
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_1024,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-G7HN-ALT2",
+								"title": "Eco Laurette Dress"
+							},
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_1024,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-G7HN-ALT3",
+								"title": "Eco Laurette Dress"
+							},
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_1024,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-G7HN-ALT4",
+								"title": "Eco Laurette Dress"
+							}
+						],
+						"variation_attributes": [
+							{
+								"_type": "variation_attribute",
+								"id": "color",
+								"values": [
+									{
+										"_type": "variation_attribute_value",
+										"value": "G7HN"
+									}
+								]
+							}
+						],
+						"view_type": "x-large"
+					},
+					{
+						"_type": "image_group",
+						"images": [
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_1024,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-JBLK",
+								"title": "Eco Laurette Dress"
+							},
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_1024,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-JBLK-ALT1",
+								"title": "Eco Laurette Dress"
+							},
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_1024,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-JBLK-ALT2",
+								"title": "Eco Laurette Dress"
+							},
+							{
+								"_type": "image",
+								"alt": "Eco Laurette Dress",
+								"link": "https://img.guess.com/image/upload/f_auto,q_auto,fl_strip_profile,w_1024,c_scale/v1/NA/Style/ECOMM/W1BK66K7UW1-JBLK-ALT3",
+								"title": "Eco Laurette Dress"
+							}
+						],
+						"variation_attributes": [
+							{
+								"_type": "variation_attribute",
+								"id": "color",
+								"values": [
+									{
+										"_type": "variation_attribute_value",
+										"value": "JBLK"
+									}
+								]
+							}
+						],
+						"view_type": "x-large"
+					}
+				],
+				"inventory": {
+					"_type": "inventory",
+					"ats": 120,
+					"backorderable": false,
+					"id": "guess_us",
+					"orderable": true,
+					"preorderable": false,
+					"stock_level": 120
+				},
+				"long_description": "| Center back to hem: 34.75\" | Measurement taken from a size small | 77% ECOVERO™ Viscose, 15% Polyamide/Nylon, 8% Elastane/Spandex",
+				"master": {
+					"_type": "master",
+					"link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/W1BK66K7UW1?all_images=true&locale=en-US&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a",
+					"master_id": "W1BK66K7UW1",
+					"orderable": true,
+					"price": 98
+				},
+				"min_order_quantity": 1,
+				"name": "Eco Laurette Dress",
+				"price": 98,
+				"price_per_unit": 98,
+				"prices": {
+					"salesPricebook_8001_us": 98
+				},
+				"primary_category_id": "7d0e9143-0c13-4a88-807e-12771ddda2ef",
+				"short_description": "Part of the SMART GUESS Collection. Designed in a coveted stretch-knit scuba fabrication, this sleek dress features a scoop neckline and short cap sleeves. Made using fiber from responsibly managed forests.",
+				"step_quantity": 1,
+				"type": {
+					"_type": "product_type",
+					"master": true
+				},
+				"variants": [
+					{
+						"_type": "variant",
+						"link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/14196480?all_images=true&locale=en-US&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a",
+						"orderable": true,
+						"price": 98,
+						"product_id": "14196480",
+						"variation_values": {
+							"color": "G7HN",
+							"size": "M"
+						}
+					},
+					{
+						"_type": "variant",
+						"link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/14196481?all_images=true&locale=en-US&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a",
+						"orderable": true,
+						"price": 98,
+						"product_id": "14196481",
+						"variation_values": {
+							"color": "G7HN",
+							"size": "L"
+						}
+					},
+					{
+						"_type": "variant",
+						"link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/14196478?all_images=true&locale=en-US&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a",
+						"orderable": true,
+						"price": 98,
+						"product_id": "14196478",
+						"variation_values": {
+							"color": "G7HN",
+							"size": "XS"
+						}
+					},
+					{
+						"_type": "variant",
+						"link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/14196479?all_images=true&locale=en-US&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a",
+						"orderable": true,
+						"price": 98,
+						"product_id": "14196479",
+						"variation_values": {
+							"color": "G7HN",
+							"size": "S"
+						}
+					},
+					{
+						"_type": "variant",
+						"link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/14196466?all_images=true&locale=en-US&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a",
+						"orderable": false,
+						"price": 98,
+						"product_id": "14196466",
+						"variation_values": {
+							"color": "G5B7",
+							"size": "XS"
+						}
+					},
+					{
+						"_type": "variant",
+						"link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/14196467?all_images=true&locale=en-US&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a",
+						"orderable": false,
+						"price": 98,
+						"product_id": "14196467",
+						"variation_values": {
+							"color": "G5B7",
+							"size": "S"
+						}
+					},
+					{
+						"_type": "variant",
+						"link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/14196469?all_images=true&locale=en-US&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a",
+						"orderable": false,
+						"price": 98,
+						"product_id": "14196469",
+						"variation_values": {
+							"color": "G5B7",
+							"size": "L"
+						}
+					},
+					{
+						"_type": "variant",
+						"link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/14196460?all_images=true&locale=en-US&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a",
+						"orderable": true,
+						"price": 98,
+						"product_id": "14196460",
+						"variation_values": {
+							"color": "JBLK",
+							"size": "XS"
+						}
+					},
+					{
+						"_type": "variant",
+						"link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/14196461?all_images=true&locale=en-US&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a",
+						"orderable": true,
+						"price": 98,
+						"product_id": "14196461",
+						"variation_values": {
+							"color": "JBLK",
+							"size": "S"
+						}
+					},
+					{
+						"_type": "variant",
+						"link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/14196462?all_images=true&locale=en-US&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a",
+						"orderable": true,
+						"price": 98,
+						"product_id": "14196462",
+						"variation_values": {
+							"color": "JBLK",
+							"size": "M"
+						}
+					},
+					{
+						"_type": "variant",
+						"link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/14196463?all_images=true&locale=en-US&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a",
+						"orderable": true,
+						"price": 98,
+						"product_id": "14196463",
+						"variation_values": {
+							"color": "JBLK",
+							"size": "L"
+						}
+					},
+					{
+						"_type": "variant",
+						"link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/14196468?all_images=true&locale=en-US&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a",
+						"orderable": false,
+						"price": 98,
+						"product_id": "14196468",
+						"variation_values": {
+							"color": "G5B7",
+							"size": "M"
+						}
+					}
+				],
+				"variation_attributes": [
+					{
+						"_type": "variation_attribute",
+						"id": "color",
+						"name": "Color",
+						"values": [
+							{
+								"_type": "variation_attribute_value",
+								"name": "beet juice red",
+								"orderable": false,
+								"value": "G5B7"
+							},
+							{
+								"_type": "variation_attribute_value",
+								"name": "washed out navy",
+								"orderable": true,
+								"value": "G7HN"
+							},
+							{
+								"_type": "variation_attribute_value",
+								"name": "jet black",
+								"orderable": true,
+								"value": "JBLK"
+							}
+						]
+					},
+					{
+						"_type": "variation_attribute",
+						"id": "size",
+						"name": "Size",
+						"values": [
+							{
+								"_type": "variation_attribute_value",
+								"name": "L",
+								"orderable": true,
+								"value": "L"
+							},
+							{
+								"_type": "variation_attribute_value",
+								"name": "M",
+								"orderable": true,
+								"value": "M"
+							},
+							{
+								"_type": "variation_attribute_value",
+								"name": "S",
+								"orderable": true,
+								"value": "S"
+							},
+							{
+								"_type": "variation_attribute_value",
+								"name": "XS",
+								"orderable": true,
+								"value": "XS"
+							}
+						]
+					}
+				],
+				"variation_groups": [
+					{
+						"_type": "variation_group",
+						"link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/W1BK66K7UW1-G7HN?all_images=true&locale=en-US&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a",
+						"orderable": true,
+						"product_id": "W1BK66K7UW1-G7HN",
+						"variation_values": {
+							"color": "G7HN"
+						}
+					},
+					{
+						"_type": "variation_group",
+						"link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/W1BK66K7UW1-G5B7?all_images=true&locale=en-US&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a",
+						"orderable": false,
+						"product_id": "W1BK66K7UW1-G5B7",
+						"variation_values": {
+							"color": "G5B7"
+						}
+					},
+					{
+						"_type": "variation_group",
+						"link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/W1BK66K7UW1-JBLK?all_images=true&locale=en-US&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a",
+						"orderable": true,
+						"product_id": "W1BK66K7UW1-JBLK",
+						"variation_values": {
+							"color": "JBLK"
+						}
+					}
+				],
+				"c_features": true,
+				"c_guess_arrivalDate": "2021-08-30T07:00:00.000Z",
+				"c_guess_visibleInCountries": ["ALL"],
+				"c_isApproved": true,
+				"c_isHazardous": false,
+				"c_isReturnable": true,
+				"c_isSellable": true,
+				"c_isSoldOut": false,
+				"c_newArrival": false,
+				"c_revenue": "0.00",
+				"c_variants": [
+					{
+						"_type": "variant",
+						"link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/14196478?all_images=true&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a&locale=en-US",
+						"orderable": true,
+						"price": 98,
+						"product_id": "14196478",
+						"variation_values": {
+							"color": "G7HN",
+							"size": "XS"
+						}
+					},
+					{
+						"_type": "variant",
+						"link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/14196479?all_images=true&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a&locale=en-US",
+						"orderable": true,
+						"price": 98,
+						"product_id": "14196479",
+						"variation_values": {
+							"color": "G7HN",
+							"size": "S"
+						}
+					},
+					{
+						"_type": "variant",
+						"link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/14196480?all_images=true&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a&locale=en-US",
+						"orderable": true,
+						"price": 98,
+						"product_id": "14196480",
+						"variation_values": {
+							"color": "G7HN",
+							"size": "M"
+						}
+					},
+					{
+						"_type": "variant",
+						"link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/14196481?all_images=true&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a&locale=en-US",
+						"orderable": true,
+						"price": 98,
+						"product_id": "14196481",
+						"variation_values": {
+							"color": "G7HN",
+							"size": "L"
+						}
+					},
+					{
+						"_type": "variant",
+						"link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/14196466?all_images=true&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a&locale=en-US",
+						"orderable": false,
+						"price": 98,
+						"product_id": "14196466",
+						"variation_values": {
+							"color": "G5B7",
+							"size": "XS"
+						}
+					},
+					{
+						"_type": "variant",
+						"link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/14196467?all_images=true&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a&locale=en-US",
+						"orderable": false,
+						"price": 98,
+						"product_id": "14196467",
+						"variation_values": {
+							"color": "G5B7",
+							"size": "S"
+						}
+					},
+					{
+						"_type": "variant",
+						"link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/14196468?all_images=true&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a&locale=en-US",
+						"orderable": false,
+						"price": 98,
+						"product_id": "14196468",
+						"variation_values": {
+							"color": "G5B7",
+							"size": "M"
+						}
+					},
+					{
+						"_type": "variant",
+						"link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/14196469?all_images=true&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a&locale=en-US",
+						"orderable": false,
+						"price": 98,
+						"product_id": "14196469",
+						"variation_values": {
+							"color": "G5B7",
+							"size": "L"
+						}
+					},
+					{
+						"_type": "variant",
+						"link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/14196460?all_images=true&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a&locale=en-US",
+						"orderable": true,
+						"price": 98,
+						"product_id": "14196460",
+						"variation_values": {
+							"color": "JBLK",
+							"size": "XS"
+						}
+					},
+					{
+						"_type": "variant",
+						"link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/14196461?all_images=true&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a&locale=en-US",
+						"orderable": true,
+						"price": 98,
+						"product_id": "14196461",
+						"variation_values": {
+							"color": "JBLK",
+							"size": "S"
+						}
+					},
+					{
+						"_type": "variant",
+						"link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/14196462?all_images=true&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a&locale=en-US",
+						"orderable": true,
+						"price": 98,
+						"product_id": "14196462",
+						"variation_values": {
+							"color": "JBLK",
+							"size": "M"
+						}
+					},
+					{
+						"_type": "variant",
+						"link": "https://staging-na01-guess.demandware.net/s/guess_us/dw/shop/v20_10/products/14196463?all_images=true&bopis_stores=&client_id=069df3b6-39c2-423c-9dc5-e869dd27de5a&locale=en-US",
+						"orderable": true,
+						"price": 98,
+						"product_id": "14196463",
+						"variation_values": {
+							"color": "JBLK",
+							"size": "L"
+						}
+					}
+				]
+			},
+			"status": 200,
+			"cs_metadata": {
+				"elapsedTime": 474,
+				"status": 200
+			}
+		},
+		"request": {
+			"envKey": {
+				"deviceDateTime": "2021-10-14T14:27:21-04:00",
+				"envKey": "1",
+				"storeInfo": {
+					"number": "5039",
+					"locale": "en-US"
+				},
+				"userInfo": {
+					"conversationsGroups": ["Inbox", "Sent", "Store", "Drafts"],
+					"userId": "mmobile",
+					"firstName": "Shree",
+					"lastName": "Sakthi",
+					"userName": "ShreeSakthi",
+					"email": "null-101",
+					"loginName": "101",
+					"initials": "",
+					"roleCode": "",
+					"crmUserData": null,
+					"permissions": ["all"],
+					"dashboardDefaults": {},
+					"securityUserId": "mmobile",
+					"roles": ["manager"],
+					"tenant": "guess",
+					"sandbox": "rh-guess-544",
+					"sessionKey": "b86486c3-3ee5-457c-998e-c81c50083f76",
+					"selectedLanguage": "en-US"
+				}
+			}
+		}
+	},
+	"allSizes": [],
+	"disableAddToCart": false,
+	"productLink": "https://www.guess.com/us/en/catalog/product/W1BK66K7UW1.html?storeId=5039&associateId=mmobile"
+}

@@ -1,0 +1,15 @@
+{
+	"name": "product-details",
+	"type": "script",
+	"templates": {
+		"envKey": {
+			"required": false,
+			"type": "object"
+		},
+		"detailRequest": {
+			"required": false,
+			"type": "object"
+		}
+	},
+	"version": 2
+}
